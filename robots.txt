@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://sloperider3d.github.io/sitemap.xml
